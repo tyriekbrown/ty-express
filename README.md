@@ -13,7 +13,7 @@ Tech used: HTML, CSS, JavaScript, Express, Node, Mongo Framework of choice
 This was simply built but the complexity made it a little challenging to put the code together. when you are on a time limit, simple doesn't really offer a hand so .........
 
 
-<h2><Lessons Learned:</h2>
+<h2>Lessons Learned:</h2>
 
 I had to get creative very quickly and think of a simple express project to pass in, so time management under pressure was a lesson learned, as well as quickly putting two seperate styles of code i worked on together to get results.
 
